@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<form-personal>
+	<formulario id="1">
+		<name>  			Steven Bombon		  </name>
+		<ci> 121241232	  </ci>
+		<phone>  			0987654		  </phone>
+		<birthday>  			08/10/1998		  </birthday>
+		<address>Forestal	  </address>
+	</formulario>
+	
+	
+</form-personal>
